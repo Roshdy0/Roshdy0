@@ -1,1 +1,1 @@
-<img src="image/skills.gif" alt="skills">
+<h1>hi 👋 I'm Roshdy Mammdouh</h1>
