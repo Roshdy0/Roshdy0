@@ -57,9 +57,5 @@
                 </div>
             </div>
         </div>
-
-        <script src="library/bootstrap/js/bootstrap.bundle.js"></script>
-        <script src="library/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="library/Font Awesome/all.min.js"></script>
     </body>
 </html>
