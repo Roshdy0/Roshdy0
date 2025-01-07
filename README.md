@@ -1,23 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Roshdy</title>
-        <link rel="icon" type="image/x-icon" href="Images/Logo.png">
-        <link rel="stylesheet" href="css/home.css">
-        <link rel="stylesheet" href="css/FrameWork.css">
-        <link rel="stylesheet" href="library/Font Awesome/webfonts.min.css">
-        <link rel="stylesheet" href="library/bootstrap/css/bootstrap.css">
-        <link rel="stylesheet" href="library/bootstrap/css/bootstrap.min.css">
-    </head>
-    <body>
+<h1 align="center"> Hi 👋 I'M Roshdy Mammdouh </h1>
 
-        <h1 style="text-align: center;">hi 👋 I'm Roshdy Mammdouh</h1>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-        <script src="library/bootstrap/js/bootstrap.bundle.js"></script>
-        <script src="library/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="library/Font Awesome/all.min.js"></script>
-    </body>
-</html>
+<p>BIO :-</p>
+I Am Front End Developer, Passionate About Web Development, <br>
+I Have Been Working In The Programming Field For Three Years. <br>
+Well-Versed In Numerous Programming Languages, Frameworks And Libraries <br>
