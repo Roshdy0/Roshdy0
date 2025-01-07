@@ -1,0 +1,62 @@
+/* Start Global */
+body{
+    text-transform: capitalize;
+}
+.section{
+    position: relative;
+    padding: 50px 0;
+}
+/* End Global */
+
+/* Start Skills */
+.skills .part1 .des{
+    font-size: 20px;
+    margin: 0 0 30px 0;
+    text-align: justify;
+}
+.skills .part1 .icons{
+    display: flex;
+    flex-wrap: wrap;
+}
+.skills .part1 .icons svg{
+    font-size: 44px;
+    margin: 10px 14px;
+}
+.skills .part2 img{
+    width: 80%;
+}
+/* End Skills */
+
+/* Start Footer */
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: var(--background-color);
+}
+.footer .contant{
+    display: flex;
+    font-size: 22px;
+    align-items: center;
+    padding: 10px 0;
+}
+.footer .contant img{ width: 50px; }
+.footer .contant .name{
+    margin: 0 0 0 10px;
+    position: relative;
+}
+.footer .contant .name::after{
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -3px;
+    width: 2px;
+    height: 30px;
+    background-color: var(--hover-color);
+}
+.footer .contact{ justify-content: right; }
+.footer .contact a{
+    font-size: 26px;
+    margin: 0 20px 0 0;
+}
+/* End Footer */
