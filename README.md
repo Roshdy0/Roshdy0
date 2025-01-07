@@ -1,16 +1,3 @@
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/home.css">
-        <link rel="stylesheet" href="css/FrameWork.css">
-        <link rel="stylesheet" href="library/Font Awesome/webfonts.min.css">
-        <link rel="stylesheet" href="library/bootstrap/css/bootstrap.css">
-        <link rel="stylesheet" href="library/bootstrap/css/bootstrap.min.css">
-    </head>
-    <body>
-
         <div class="footer  ">
             <div class="container">
                 <div class="row">
@@ -29,9 +16,3 @@
                 </div>
             </div>
         </div>
-
-        <script src="library/bootstrap/js/bootstrap.bundle.js"></script>
-        <script src="library/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="library/Font Awesome/all.min.js"></script>
-    </body>
-</html>
