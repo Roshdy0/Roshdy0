@@ -1,9 +1,82 @@
-<h1 align="center">Hi I'm Roshdy Mammdouh Roshdy</h1>
-<h3 align="center">I am Front end developer, Passionate about Web development, I have been working in the programming field for three years. Well-versed in numerous programming languages, frameworks, and libraries</h3>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/home.css">
+        <link rel="stylesheet" href="css/FrameWork.css">
+        <link rel="stylesheet" href="library/Font Awesome/webfonts.min.css">
+        <link rel="stylesheet" href="library/bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="library/bootstrap/css/bootstrap.min.css">
+    </head>
+    <body>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+        <!-- Start Wellcome -->
+        <div class="wellcome">
+            <div class="container text-center">
+                <h1>hi 👋 I'm Roshdy Mammdouh</h1>
+            </div>
+        </div>
+        <!-- End Wellcome -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+        <!-- Start Skills -->
+        <div class="skills section">
+            <div class="container">
+                <div class="row">
+                    <div class="part1 col-lg-6 col-md-12">
+                        <div class="des">
+                            <p>I am Front end developer, Passionate about Web development, I have been working in the programming field for three years. Well-versed in numerous programming languages, frameworks, and libraries</p>
+                        </div>
+                        <div class="icons">
+                            <i class="fa-brands fa-html5"></i>
+                            <i class="fa-brands fa-css3-alt"></i>
+                            <i class="fa-brands fa-square-js"></i>
+                            <i class="fa-brands fa-bootstrap"></i>
+                            <i class="fa-brands fa-shopify"></i>
+                            <i class="fa-brands fa-sass"></i>
+                            <i class="fa-brands fa-wordpress-simple"></i>
+                            <i class="fa-brands fa-react"></i>
+                            <i class="fa-brands fa-gulp"></i>
+                            <i class="fa-brands fa-git"></i>
+                            <i class="fa-solid fa-database"></i>
+                            <i class="fa-solid fa-server"></i>
+                            <i class="fa-brands fa-java"></i>
+                            <i class="fa-brands fa-php"></i>
+                            <i class="fa-brands fa-windows"></i>
+                        </div>
+                    </div>
+                    <div class="part2 centerByFlex col-lg-6 col-md-12">
+                        <img src="image/skills.gif" alt="skills">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Skills -->
+
+        <!-- Start Footer -->
+        <div class="footer  ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-12 contant">
+                        <div class="logo"><img src="Image/Logo.png" alt=""></div>
+                        <div class="copy">© Copyright 2025</div>
+                        <span class="name">Roshdy Mammdouh</span>
+                    </div>
+                    <div class="col-lg-3 col-md-12 contact centerByFlex">
+                        <a href="https://github.com/Roshdy0"><i class="fa-brands fa-github"></i></a>
+                        <a href="https://wa.me/+0201117651690"><i class="fa-brands fa-whatsapp"></i></a>
+                        <a href="mailto:roshdy.mammdouh@gmail.com"><i class="fa-brands fa-google"></i></a>
+                        <a href="https://www.facebook.com/Roshdy.mammdouh/"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="https://www.linkedin.com/in/roshdi-mammdoh-27a004209/"><i class="fa-brands fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Footer -->
+
+        <script src="library/bootstrap/js/bootstrap.bundle.js"></script>
+        <script src="library/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="library/Font Awesome/all.min.js"></script>
+    </body>
+</html>
