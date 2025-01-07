@@ -2,12 +2,17 @@
 
 <img align="right" alt="Coding" width="300" src="Image/skills.gif">
 
+🌱 I’m currently learning **WEB Development Front End Developer** <br>
+
 **BIO :** 
 <br>
-I Am Front End Developer, Passionate About Web Development, <br>
-I Have Been Working In The Programming Field For Three Years. <br>
-Well-Versed In Numerous Programming Languages, Frameworks And Libraries <br>
+I am Front end developer, <br>
+Passionate about Web development, <br>
+I have been working in the programming field for three years. <br>
+Well-versed in numerous programming languages, frameworks, and libraries including <br>
+HTML, CSS, Bootstrap, JavaScript, SASS, JQuery, Shopify, WordPress, React.js
 <br>
+
 <a href="tel:+201117651690"> <img width="40" src="Image/smartphone.png" alt="smartphone"> </a>
 <a href="https://github.com/Roshdy0"> <img width="40" src="Image/github.png" alt="github"></a>
 <a href="https://wa.me/+0201117651690"> <img width="40" src="Image/WhatsApp.png" alt="WhatsApp"> </a>
