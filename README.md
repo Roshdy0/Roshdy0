@@ -12,15 +12,12 @@
     </head>
     <body>
 
-        <!-- Start Wellcome -->
         <div class="wellcome">
             <div class="container text-center">
                 <h1>hi 👋 I'm Roshdy Mammdouh</h1>
             </div>
         </div>
-        <!-- End Wellcome -->
 
-        <!-- Start Skills -->
         <div class="skills section">
             <div class="container">
                 <div class="row">
@@ -52,9 +49,7 @@
                 </div>
             </div>
         </div>
-        <!-- End Skills -->
 
-        <!-- Start Footer -->
         <div class="footer  ">
             <div class="container">
                 <div class="row">
@@ -73,7 +68,6 @@
                 </div>
             </div>
         </div>
-        <!-- End Footer -->
 
         <script src="library/bootstrap/js/bootstrap.bundle.js"></script>
         <script src="library/bootstrap/js/bootstrap.bundle.min.js"></script>
