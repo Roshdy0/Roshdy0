@@ -7,7 +7,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Frontend Web Developer** with **3 years** of experience in the programming field. I specialize in building high-performance, secure, and SEO-friendly web applications.
+**Detail-oriented Frontend Developer** equipped with Next.js and Tailwind CSS. Experienced in building responsive UI architectures, optimizing web performance (LCP, SEO), and delivering visually engaging digital experiences. I focus on writing clean, scalable code that bridges the gap between design and robust functionality.
 
 - 🌱 Currently mastering: **Next.js 14, TypeScript & Performance Optimization**.
 - 🛡️ Focus: **Web Security & Real-time User Engagement**.
@@ -38,7 +38,7 @@ A professional portfolio built with **Next.js** featuring:
 
 ### 📬 Connect With Me
 <p align="left">
-<a href="https://wa.me/201117651690" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://www.linkedin.com/in/roshdi-mammdoh-27a004209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://wa.me/+0201117651690" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/roshdy-mammdouh-2b29653b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://linktr.ee/Roshdy_Mammdouh" target="_blank"><img src="https://img.shields.io/badge/Linktree-43B02A?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>
